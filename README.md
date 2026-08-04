@@ -166,6 +166,17 @@ streamlit run app.py
 
 ---
 
+## Demo
+
+Ask questions about multiple PDFs:
+
+Example:
+Q: What is the invoice number?
+A: INV-2026-001
+
+Q: What is Ahmed's role?
+A: Configure Docker
+
 # 💬 Example Questions
 
 After uploading your PDFs, you can ask questions such as:
