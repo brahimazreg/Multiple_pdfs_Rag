@@ -286,11 +286,10 @@ docker run -p 8501:8501 multipdf-chat
 
 # 👨‍💻 Author
 
-**Your Name**
+**AZREG BRAHIM**
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/brahimazreg/Multiple_pdfs_Rag
 
-LinkedIn: https://linkedin.com/in/yourprofile
 
 ---
 
