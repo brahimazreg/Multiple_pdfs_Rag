@@ -1,0 +1,25 @@
+langchain
+langchain-core
+langchain-community
+
+# llm provider
+
+langchain-groq
+langchain_text_splitters
+pdfminer.six
+
+# vectore store
+faiss-cpu
+langchain-qdrant
+qdrant-client 
+
+# notebook
+
+jupyter
+ipykernel
+
+# web app
+streamlit
+
+
+python-dotenv
